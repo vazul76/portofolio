@@ -1,0 +1,30 @@
+{
+  "email": "your.email@example.com",
+  "phone": "+62 123 4567 890",
+  "links": [
+    {
+      "platform": "GitHub",
+      "url": "https://github.com/vazul76",
+      "icon": "Github",
+      "showInHero": true
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://linkedin.com/in/your-profile",
+      "icon": "Linkedin",
+      "showInHero": true
+    },
+    {
+      "platform": "Facebook",
+      "url": "https://twitter.com/your-handle",
+      "icon": "Facebook",
+      "showInHero": true
+    },
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/xdfryaa_/",
+      "icon": "Instagram",
+      "showInHero": true
+    }
+  ]
+}

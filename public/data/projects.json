@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Portfolio Website",
+    "description": "Modern and responsive portfolio website with dark mode, smooth animations, and elegant design",
+    "tech": [
+      "Next.js",
+      "Tailwind CSS",
+      "Lucide Icons"
+    ],
+    "category": "Web Development",
+    "image": "portodaffa.png",
+    "github": "https://github.com/vazul76"
+  },
+  {
+    "title": "Inventory Management System - Cleon",
+    "description": "Inventory management system with stock tracking and real-time reporting dashboard",
+    "tech": [
+      "Laravel",
+      "Filament",
+      "Tailwind CSS",
+      "MySQL"
+    ],
+    "category": "Full Stack",
+    "image": "ims-cleon.png",
+    "github": "https://github.com/vazul76/inventory-cleon"
+  },
+  {
+    "title": "WhatsApp Bot",
+    "description": "WhatsApp Bot featuring media downloader for multiple platforms, advanced sticker conversion tools, and comprehensive utility features including security scanning and AI integration",
+    "tech": [
+      "Node.js",
+      "Baileys",
+      "yt-dlp",
+      "APIs"
+    ],
+    "category": "Utility Bot",
+    "image": "vbot.png",
+    "github": "https://github.com/vazul76/v_bot"
+  }
+]
